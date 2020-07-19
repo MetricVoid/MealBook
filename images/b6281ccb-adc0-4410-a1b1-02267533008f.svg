@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Reply Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="iPhone-X" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-164.000000, -60.000000)">
+        <path d="M175.583639,64.8862144 C188.92501,64.9900369 187.985689,78 187.985689,78 C187.985689,78 187.264315,78 187.264315,78 C183.058518,71.0938465 176.709201,71.2916218 175.583639,71.3854748 L175.583639,76.1842483 L164,68.2460396 L175.583639,60 L175.583639,64.8862144 Z" id="Reply-Icon" fill="#9B9B9B"></path>
+    </g>
+</svg>
